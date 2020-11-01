@@ -1,2 +1,4 @@
 # hello-world
-Just a repo
+
+hello
+print("hello")
